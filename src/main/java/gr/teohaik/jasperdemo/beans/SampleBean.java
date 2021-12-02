@@ -1,4 +1,4 @@
-package com.javahowtos.jasperdemo.beans;
+package gr.teohaik.jasperdemo.beans;
 
 public class SampleBean {
 

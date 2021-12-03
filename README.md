@@ -1,4 +1,4 @@
-# jasperreports-spring-rest-exporter
+# jasperreports springboot rest PDF creator
 Sample Project in Spring Boot that employs Jasper Reports engine to create and return a sample invoice pdf
 
 Build and run with  ```mvn spring-boot:run```
